@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'doador',
     'rest_framework',
     'Escola',
+    'doacao',
 ]
 
 MIDDLEWARE = [
