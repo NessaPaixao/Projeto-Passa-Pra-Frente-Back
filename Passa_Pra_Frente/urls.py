@@ -15,10 +15,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from Escola.views import EscolaViewSet
 from doador.views import DoadorViewSet
 from rest_framework import routers
+
 router = routers.DefaultRouter()
 router.register(r'Doador', DoadorViewSet)
+router.register(r'Escola', EscolaViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),

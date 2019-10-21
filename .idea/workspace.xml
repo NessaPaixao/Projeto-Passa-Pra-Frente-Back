@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e5485fe-bc35-4c78-a4db-5cd6ad720418" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Escola/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Escola/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Passa_Pra_Frente/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Passa_Pra_Frente/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

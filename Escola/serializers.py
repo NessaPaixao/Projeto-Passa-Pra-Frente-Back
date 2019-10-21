@@ -1,5 +1,5 @@
+from rest_framework import serializers
 from Escola.models import Escola
-from doador import serializers
 
 
 class EscolaSerializer(serializers.ModelSerializer):
