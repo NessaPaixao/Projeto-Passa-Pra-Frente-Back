@@ -16,12 +16,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from Escola.views import EscolaViewSet
+from doacao.views import DoacaoViewSet
 from doador.views import DoadorViewSet
 from rest_framework import routers
 
 router = routers.DefaultRouter()
 router.register(r'Doador', DoadorViewSet)
 router.register(r'Escola', EscolaViewSet)
+router.register(r'Doacao', DoacaoViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
