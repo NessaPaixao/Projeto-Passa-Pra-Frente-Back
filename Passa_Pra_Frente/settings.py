@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'doador',
     'rest_framework',
+    'Escola',
 ]
 
 MIDDLEWARE = [
