@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-class Doador(models.Model):
+class Doacao(models.Model):
 
     nome = models.CharField(
         max_length=50, verbose_name='Nome_doacao')
