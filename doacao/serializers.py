@@ -5,4 +5,4 @@ from doacao.models import Doacao
 class DoacaoSerializer(serializers.ModelSerializer):
     class Meta:
         model = Doacao
-        fields = ('nome','id','quantidade','descriçao')
+        fields = ('id','nome','quantidade','descricao')

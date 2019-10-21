@@ -11,6 +11,8 @@ class Doacao(models.Model):
         verbose_name='quantidade')
 
     descricao = models.CharField(
-        max_length=255,verbose_name='descricao')
+        max_length=255,
+        verbose_name='descricao'
+    )
 
 
