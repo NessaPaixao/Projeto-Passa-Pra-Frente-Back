@@ -31,6 +31,5 @@ class Doador(models.Model):
         verbose_name='cep'
     )
 
-    #
-    # def __str__(self):
-    #     return self.nome
+    def __str__(self):
+        return self.nome
