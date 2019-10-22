@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5485fe-bc35-4c78-a4db-5cd6ad720418" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Escola/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Escola/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Escola/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Escola/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Escola/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Escola/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doador/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/doador/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doador/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/doador/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doador/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/doador/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="9e5485fe-bc35-4c78-a4db-5cd6ad720418" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
