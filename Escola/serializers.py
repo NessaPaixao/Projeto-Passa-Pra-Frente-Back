@@ -7,8 +7,3 @@ class EscolaSerializer(serializers.ModelSerializer):
         model = Escola
         fields = ('id','nome_responsavel','cpf_responsavel', 'nome_escola', 'cep', 'telefone', 'usuario','senha')
 
-
-
-
-
-
